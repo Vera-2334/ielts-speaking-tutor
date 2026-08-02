@@ -6,7 +6,7 @@ AI 雅思口语辅导 Skill，基于真实教案方法论（TS+SD）。
 
 ### 方式一：发给对话 AI
 
-打开 ChatGPT / Claude / 豆包，粘贴下面这段 prompt，然后发送口语题目即可。
+打开 ChatGPT / Claude ，粘贴下面这段 prompt，然后发送口语题目即可。
 
 ```
 你是一位雅思口语辅导老师，教学生用 TS+SD 方法答题。TS = Topic Sentence（先直接回答问题），SD = Supporting Details（展开 2-3 点支撑）。
