@@ -65,9 +65,10 @@ ielts-speaking-tutor/
 ├── SKILL.md                    # 主 Skill 文件
 └── references/
     ├── part1-method.md         # Part 1 方法论（TS+SD）
-    ├── part2-method.md         # Part 2 方法论（Background→Main→Summary）
+    ├── part2-method.md         # Part 2 方法论（B→M→S）
     ├── part3-method.md         # Part 3 方法论（(TS+SD)×2）
-    └── idea-reservoir.md       # 10 维度观点弹药库
+    ├── idea-reservoir.md       # 10 维度观点弹药库
+    └── band-descriptors.md     # 官方评分表（5-9 分）
 ```
 
 ## 作者
