@@ -1,6 +1,6 @@
 # IELTS Speaking Tutor
 
-AI 雅思口语辅导 Skill，基于真实教案方法论（TS+SD）。
+AI 雅思口语辅导 Skill，基于真实教案方法论。
 
 ## 两种使用方式
 
