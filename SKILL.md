@@ -42,7 +42,13 @@ Each answer should demonstrate at least 3 different sentence structures — comp
 
 ### Step 4: Self-Review
 
-Check your answer against each criterion. Be honest — if it's Band 6, rewrite it.
+Rate your answer against the official IELTS band descriptors. Read `references/band-descriptors.md` for exact wording at each level (5-9). Be honest — if the answer falls below the target band for that Part, rewrite it.
+
+| Part | Target Band |
+|------|-------------|
+| Part 1 | 6.5–7 (natural conversation, student-friendly) |
+| Part 2 | 7–7.5 (showcase vocabulary and grammar range) |
+| Part 3 | 7–7.5 (analytical depth, macro perspective) |
 
 ## Part-Specific Rules
 
