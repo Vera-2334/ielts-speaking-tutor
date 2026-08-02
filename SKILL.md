@@ -85,24 +85,31 @@ Part 3 tests reasoning and abstract thinking.
 
 ## Output Format
 
+Default: Model Answer only.
+
 ```
-## Analysis
-[Part, Question Type, Topic Type, SD Strategy]
-
 ## Model Answer
-[Natural speech with annotations: *(TS)*, *(Reason)*, *(Example)*, *(Opinion)*, *(Description)*, *(Comparison)*, *(Result)*, *(Prediction)*]
+[annotated speech with *(TS)*, *(Reason)*, *(Example)*, *(Opinion)*, *(Description)*, *(Comparison)*, *(Result)*, *(Prediction)*]
+```
 
-## Vocabulary Highlights
-| Word/Phrase | 中文 | Why it's Band 7+ |
+### Optional: Answer Analysis
 
+Only if user asks "分析一下" or "讲一下为什么这样答".
+
+```
+## Answer Analysis
+**结构**: [...] **为什么这样搭**: [...] **可以抄的句式**: [...]
+```
+
+### Optional: Self-Review
+
+Only if user asks "打分" or "评分".
+
+```
 ## Self-Review
 | Criterion | Band | Justification |
-|---|---|---|
-| Fluency & Coherence | | |
-| Lexical Resource | | |
-| Grammatical Range | | |
-| Pronunciation | N/A | — |
 ```
+
 
 ## Vocabulary Upgrades — Part 2 & 3 Only
 
