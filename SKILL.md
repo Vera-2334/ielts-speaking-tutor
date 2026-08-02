@@ -13,6 +13,8 @@ Generate high-band model answers for IELTS speaking questions. Every answer must
 - [Part-Specific Rules](#part-specific-rules) — what changes between Part 1, 2, and 3
 - [Output Format](#output-format) — required output structure
 - [Vocabulary Upgrades](#vocabulary-upgrades--part-2--3-only) — Part 2/3 only
+- [Target Bands](#step-4-self-review) — Part 1: 6.5–7 / Part 2&3: 7–7.5
+- [Official Band Descriptors](references/band-descriptors.md) — IELTS 官方评分表（5-9 分）
 - [Answer Quality Standards](#answer-quality-standards)
 
 ## Workflow
